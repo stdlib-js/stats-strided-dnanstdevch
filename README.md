@@ -397,7 +397,7 @@ int main( void ) {
 ## See Also
 
 -   <span class="package-name">[`@stdlib/stats-base/dnanstdev`][@stdlib/stats/base/dnanstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values.</span>
--   <span class="package-name">[`@stdlib/stats-base/dnanvariancech`][@stdlib/stats/base/dnanvariancech]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array ignoring NaN values and using a one-pass trial mean algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dnanvariancech`][@stdlib/stats/strided/dnanvariancech]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array ignoring NaN values and using a one-pass trial mean algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/dstdevch`][@stdlib/stats/base/dstdevch]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array using a one-pass trial mean algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanstdevch`][@stdlib/stats/base/nanstdevch]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array ignoring NaN values and using a one-pass trial mean algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanstdevch`][@stdlib/stats/base/snanstdevch]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values and using a one-pass trial mean algorithm.</span>
@@ -496,7 +496,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/dnanstdev]: https://github.com/stdlib-js/stats-base-dnanstdev
 
-[@stdlib/stats/base/dnanvariancech]: https://github.com/stdlib-js/stats-base-dnanvariancech
+[@stdlib/stats/strided/dnanvariancech]: https://github.com/stdlib-js/stats-strided-dnanvariancech
 
 [@stdlib/stats/base/dstdevch]: https://github.com/stdlib-js/stats-base-dstdevch
 
