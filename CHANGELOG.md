@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`17c4e41`](https://github.com/stdlib-js/stdlib/commit/17c4e41ad480a465b085afa0de85e34957861710) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`6e7d598`](https://github.com/stdlib-js/stdlib/commit/6e7d598246fa754fdebe1ccbf275972fccde56fe) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`23efc2b`](https://github.com/stdlib-js/stdlib/commit/23efc2bcb1cd5e8fc04f806e6bfc39cf45811388) - **feat:** add `stats/strided/dnanstdevch` _(by Aayush Khanna)_
 
