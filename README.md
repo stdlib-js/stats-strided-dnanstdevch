@@ -396,7 +396,7 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats-base/dnanstdev`][@stdlib/stats/base/dnanstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dnanstdev`][@stdlib/stats/strided/dnanstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dnanvariancech`][@stdlib/stats/strided/dnanvariancech]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array ignoring NaN values and using a one-pass trial mean algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dstdevch`][@stdlib/stats/strided/dstdevch]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array using a one-pass trial mean algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanstdevch`][@stdlib/stats/base/nanstdevch]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array ignoring NaN values and using a one-pass trial mean algorithm.</span>
@@ -494,7 +494,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/base/dnanstdev]: https://github.com/stdlib-js/stats-base-dnanstdev
+[@stdlib/stats/strided/dnanstdev]: https://github.com/stdlib-js/stats-strided-dnanstdev
 
 [@stdlib/stats/strided/dnanvariancech]: https://github.com/stdlib-js/stats-strided-dnanvariancech
 
